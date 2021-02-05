@@ -1,1 +1,3 @@
-# coursera_webdev
+# Finished Coursera webdev-course
+
+### included CSS/HTML/JS via BOOTSTRAP
